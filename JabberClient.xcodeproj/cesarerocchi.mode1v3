@@ -266,7 +266,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
-								<string>080E96DDFE201D6D7F000001</string>
 								<string>29B97317FDCFA39411CA2CEA</string>
 								<string>1C37FBAC04509CD000000102</string>
 								<string>1C37FABC05509CD000000102</string>
@@ -274,7 +273,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>6</integer>
 									<integer>2</integer>
 									<integer>0</integer>
 								</array>
@@ -327,7 +325,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BD9909131402C38B0095E4EA</string>
+										<string>BD157EBB1402C51E0060F5DE</string>
 										<key>history</key>
 										<array>
 											<string>BD62314113E9638300F26E0B</string>
@@ -339,7 +337,7 @@
 											<string>BD1E3A8A13F40D94008DEF1E</string>
 											<string>BD9909101402C38B0095E4EA</string>
 											<string>BD9909111402C38B0095E4EA</string>
-											<string>BD9909121402C38B0095E4EA</string>
+											<string>BD157EBA1402C51E0060F5DE</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -351,14 +349,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1079, 753}}</string>
+								<string>{{0, 0}, {1079, 752}}</string>
 								<key>RubberWindowFrame</key>
 								<string>952 346 1437 823 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>753pt</string>
+							<string>752pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -371,14 +369,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 758}, {1079, 24}}</string>
+								<string>{{0, 757}, {1079, 25}}</string>
 								<key>RubberWindowFrame</key>
 								<string>952 346 1437 823 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>24pt</string>
+							<string>25pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -397,9 +395,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>BD99090D1402C3830095E4EA</string>
+				<string>BD157EBC1402C51E0060F5DE</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>BD99090E1402C3830095E4EA</string>
+				<string>BD157EBD1402C51E0060F5DE</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -538,7 +536,7 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>BD622FD313E95B6F00F26E0B</string>
-		<string>/Users/cesarerocchi/Desktop/jabberClientTut/JabberClient/JabberClient.xcodeproj</string>
+		<string>/Users/cesarerocchi/Desktop/JabberClient/JabberClient.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>952 346 1437 823 0 0 2560 1418 </string>
@@ -618,7 +616,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>BD622FD313E95B6F00F26E0B</string>
-				<string>BD99090F1402C3830095E4EA</string>
+				<string>BD157EBE1402C51E0060F5DE</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
