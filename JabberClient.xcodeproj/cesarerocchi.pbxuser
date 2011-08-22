@@ -1,0 +1,313 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* JabberClientAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1018, 1029}}";
+			sepNavSelRange = "{911, 103}";
+			sepNavVisRange = "{0, 1060}";
+		};
+	};
+	1D3623250D0F684500981E51 /* JabberClientAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1425, 3456}}";
+			sepNavSelRange = "{144, 0}";
+			sepNavVisRange = "{0, 765}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* JabberClient */ = {
+		activeExec = 0;
+		executables = (
+			BD622FCC13E95B6800F26E0B /* JabberClient */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SMBuddyListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1074, 1029}}";
+			sepNavSelRange = "{543, 0}";
+			sepNavVisRange = "{0, 789}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SMBuddyListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1164, 2718}}";
+			sepNavSelRange = "{1082, 0}";
+			sepNavVisRange = "{0, 845}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BD622FCC13E95B6800F26E0B /* JabberClient */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* JabberClient */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* JabberClient */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = BD622FD613E95B6F00F26E0B /* Code sense */;
+		executables = (
+			BD622FCC13E95B6800F26E0B /* JabberClient */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					840,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					681,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 335725439;
+			PBXWorkspaceStateSaveDate = 335725439;
+		};
+		perUserProjectItems = {
+			BD1E3A8A13F40D94008DEF1E /* PBXTextBookmark */ = BD1E3A8A13F40D94008DEF1E /* PBXTextBookmark */;
+			BD62314113E9638300F26E0B /* PBXTextBookmark */ = BD62314113E9638300F26E0B /* PBXTextBookmark */;
+			BD62314A13E9640900F26E0B /* PBXTextBookmark */ = BD62314A13E9640900F26E0B /* PBXTextBookmark */;
+			BD9909101402C38B0095E4EA /* PBXTextBookmark */ = BD9909101402C38B0095E4EA /* PBXTextBookmark */;
+			BD9909111402C38B0095E4EA /* PBXTextBookmark */ = BD9909111402C38B0095E4EA /* PBXTextBookmark */;
+			BD9909121402C38B0095E4EA /* PBXTextBookmark */ = BD9909121402C38B0095E4EA /* PBXTextBookmark */;
+			BD9909131402C38B0095E4EA /* PBXTextBookmark */ = BD9909131402C38B0095E4EA /* PBXTextBookmark */;
+			BDDB2F2E13EBEF1700B340BB /* PBXTextBookmark */ = BDDB2F2E13EBEF1700B340BB /* PBXTextBookmark */;
+			BDDB2F2F13EBEF1700B340BB /* PBXTextBookmark */ = BDDB2F2F13EBEF1700B340BB /* PBXTextBookmark */;
+			BDDB2F4613EBF19000B340BB /* PBXTextBookmark */ = BDDB2F4613EBF19000B340BB /* PBXTextBookmark */;
+			BDDB2F4B13EBF68400B340BB /* PBXTextBookmark */ = BDDB2F4B13EBF68400B340BB /* PBXTextBookmark */;
+		};
+		sourceControlManager = BD622FD513E95B6F00F26E0B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BD1E3A8A13F40D94008DEF1E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BD62316C13E964BA00F26E0B /* SMChatViewController.h */;
+		name = "SMChatViewController.h: 14";
+		rLen = 114;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 0;
+	};
+	BD622FCC13E95B6800F26E0B /* JabberClient */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = JabberClient;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	BD622FD513E95B6F00F26E0B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BD622FD613E95B6F00F26E0B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BD62310813E9626F00F26E0B /* SMLoginViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 883}}";
+			sepNavSelRange = "{462, 0}";
+			sepNavVisRange = "{0, 513}";
+		};
+	};
+	BD62310913E9626F00F26E0B /* SMLoginViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {921, 1116}}";
+			sepNavSelRange = "{250, 0}";
+			sepNavVisRange = "{0, 1122}";
+		};
+	};
+	BD62310F13E9628700F26E0B /* SMChatDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1018, 1029}}";
+			sepNavSelRange = "{174, 150}";
+			sepNavVisRange = "{0, 325}";
+		};
+	};
+	BD62311013E9629700F26E0B /* SMMessageDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1018, 1029}}";
+			sepNavSelRange = "{213, 0}";
+			sepNavVisRange = "{0, 270}";
+		};
+	};
+	BD62314113E9638300F26E0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BD62310813E9626F00F26E0B /* SMLoginViewController.h */;
+		name = "SMLoginViewController.h: 22";
+		rLen = 0;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 513;
+		vrLoc = 0;
+	};
+	BD62314A13E9640900F26E0B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BD62310913E9626F00F26E0B /* SMLoginViewController.m */;
+		name = "SMLoginViewController.m: 14";
+		rLen = 0;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 1122;
+		vrLoc = 0;
+	};
+	BD62316C13E964BA00F26E0B /* SMChatViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 722}}";
+			sepNavSelRange = "{235, 114}";
+			sepNavVisRange = "{0, 738}";
+		};
+	};
+	BD62316D13E964BA00F26E0B /* SMChatViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1018, 3330}}";
+			sepNavSelRange = "{1164, 402}";
+			sepNavVisRange = "{0, 685}";
+		};
+	};
+	BD9909101402C38B0095E4EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BD62316D13E964BA00F26E0B /* SMChatViewController.m */;
+		name = "SMChatViewController.m: 69";
+		rLen = 402;
+		rLoc = 1164;
+		rType = 0;
+		vrLen = 685;
+		vrLoc = 0;
+	};
+	BD9909111402C38B0095E4EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* JabberClientAppDelegate.m */;
+		name = "JabberClientAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 0;
+	};
+	BD9909121402C38B0095E4EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SMBuddyListViewController.m */;
+		name = "SMBuddyListViewController.m: 54";
+		rLen = 0;
+		rLoc = 1082;
+		rType = 0;
+		vrLen = 726;
+		vrLoc = 653;
+	};
+	BD9909131402C38B0095E4EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SMBuddyListViewController.m */;
+		name = "SMBuddyListViewController.m: 54";
+		rLen = 0;
+		rLoc = 1082;
+		rType = 0;
+		vrLen = 845;
+		vrLoc = 0;
+	};
+	BDDB2F2E13EBEF1700B340BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BD62311013E9629700F26E0B /* SMMessageDelegate.h */;
+		name = "SMMessageDelegate.h: 14";
+		rLen = 0;
+		rLoc = 213;
+		rType = 0;
+		vrLen = 270;
+		vrLoc = 0;
+	};
+	BDDB2F2F13EBEF1700B340BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BD62310F13E9628700F26E0B /* SMChatDelegate.h */;
+		name = "SMChatDelegate.h: 12";
+		rLen = 150;
+		rLoc = 174;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	BDDB2F4613EBF19000B340BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* JabberClientAppDelegate.h */;
+		name = "JabberClientAppDelegate.h: 40";
+		rLen = 103;
+		rLoc = 911;
+		rType = 0;
+		vrLen = 1060;
+		vrLoc = 0;
+	};
+	BDDB2F4B13EBF68400B340BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SMBuddyListViewController.h */;
+		name = "SMBuddyListViewController.h: 22";
+		rLen = 0;
+		rLoc = 543;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+}
