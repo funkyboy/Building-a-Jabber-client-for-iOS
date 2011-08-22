@@ -266,14 +266,12 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
-								<string>29B97317FDCFA39411CA2CEA</string>
 								<string>1C37FBAC04509CD000000102</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>2</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -297,7 +295,7 @@
 							<real>336</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>952 346 1437 823 0 0 2560 1418 </string>
+						<string>937 269 1437 823 0 0 2560 1418 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -325,7 +323,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BD157EBB1402C51E0060F5DE</string>
+										<string>BD157ECD1402C5AC0060F5DE</string>
 										<key>history</key>
 										<array>
 											<string>BD62314113E9638300F26E0B</string>
@@ -351,7 +349,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1079, 752}}</string>
 								<key>RubberWindowFrame</key>
-								<string>952 346 1437 823 0 0 2560 1418 </string>
+								<string>937 269 1437 823 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -371,7 +369,7 @@
 								<key>Frame</key>
 								<string>{{0, 757}, {1079, 25}}</string>
 								<key>RubberWindowFrame</key>
-								<string>952 346 1437 823 0 0 2560 1418 </string>
+								<string>937 269 1437 823 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -539,7 +537,7 @@
 		<string>/Users/cesarerocchi/Desktop/JabberClient/JabberClient.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>952 346 1437 823 0 0 2560 1418 </string>
+	<string>937 269 1437 823 0 0 2560 1418 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
