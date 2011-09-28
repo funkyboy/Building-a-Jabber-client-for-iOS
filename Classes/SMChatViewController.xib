@@ -116,7 +116,7 @@
 					<object class="IBUITableView" id="146379365">
 						<reference key="NSNextResponder" ref="191373211"/>
 						<int key="NSvFlags">274</int>
-						<string key="NSFrame">{{0, 77}, {320, 169}}</string>
+						<string key="NSFrame">{{0, 77}, {320, 165}}</string>
 						<reference key="NSSuperview" ref="191373211"/>
 						<reference key="IBUIBackgroundColor" ref="8708562"/>
 						<bool key="IBUIClipsSubviews">YES</bool>
@@ -632,7 +632,7 @@
 			<integer value="3000" key="NS.object.0"/>
 		</object>
 		<bool key="IBDocument.PluginDeclaredDependenciesTrackSystemTargetVersion">YES</bool>
-		<string key="IBDocument.LastKnownRelativeProjectPath">../jabberClient.xcodeproj</string>
+		<string key="IBDocument.LastKnownRelativeProjectPath">../JabberClient.xcodeproj</string>
 		<int key="IBDocument.defaultPropertyAccessControl">3</int>
 		<string key="IBCocoaTouchPluginVersion">141</string>
 	</data>

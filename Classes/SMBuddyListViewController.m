@@ -118,8 +118,12 @@
 
 - (void)newBuddyOnline:(NSString *)buddyName {
 	
-	[onlineBuddies addObject:buddyName];
-	[self.tView reloadData];
+	if (![onlineBuddies containsObject:buddyName]) {
+	
+		[onlineBuddies addObject:buddyName];
+		[self.tView reloadData];
+		
+	}
 	
 }
 

@@ -9,7 +9,8 @@
 #import <UIKit/UIKit.h>
 #import "SMBuddyListViewController.h"
 #import "XMPP.h"
-
+#import "TURNSocket.h"
+#import "SMMessageViewTableCell.h"
 
 @interface SMChatViewController : UIViewController <UITableViewDelegate, UITableViewDataSource, SMMessageDelegate> {
 
@@ -17,6 +18,7 @@
 	NSString		*chatWithUser;
 	UITableView		*tView;
 	NSMutableArray	*messages;
+	NSMutableArray *turnSockets;
 	
 }
 
