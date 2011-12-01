@@ -17,7 +17,7 @@
 - (void) viewDidLoad {
 	
 	[super viewDidLoad];
-	self.loginField.text = @"alterego@jerry.local";
+	self.loginField.text = @"alterego@YOURSERVER";
 	self.passwordField.text = @"ciao";
 	
 }

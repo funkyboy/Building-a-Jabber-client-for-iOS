@@ -48,7 +48,7 @@
 	del._messageDelegate = self;
 	[self.messageField becomeFirstResponder];
 
-	XMPPJID *jid = [XMPPJID jidWithString:@"cesare@jerry.local"];
+	XMPPJID *jid = [XMPPJID jidWithString:@"cesare@YOURSERVER"];
 	
 	NSLog(@"Attempting TURN connection to %@", jid);
 	
